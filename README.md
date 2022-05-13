@@ -1,16 +1,19 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Bruno Guimarães, tenho 32 anos, sou graduado pelo Senac-RJ como desenvelvedor Web e atualmente estudo pela Alura.<br>
-  Estou em processo de migração de carreria para desenvolvedor Front-End depois de ter trabalhar por 10 anos como Auxiliar Administrativo.
+  Bruno Guimarães, 32 anos, graduado pelo Senac-RJ como desenvelvedor Web e atualmente estudo pela Alura.<br>
+  Estou em processo de migração de carreria para desenvolvedor Front-End depois de trabalhar por 10 anos como Auxiliar Administrativo.
 </p>
 
 <p align="left">
-   💼 Linguagens: Html, Css, Javascript, TailwindCSS e Vue.JS
+  
+   💼 Linguagens: <strong>HTML, CSS, JavaScript, TailwindCSS e Vue.Js
+  </strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: VS Code, Figma, Trello, Git e GitHub.
+ 
+  💼 Ferramentas: <strong>VS Code, Figma, Trello, Git e GitHub.
 
 </strong>
 </p>
