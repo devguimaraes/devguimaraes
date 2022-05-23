@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Bruno Guimarães, 32 anos, graduado pelo Senac-RJ como desenvelvedor Web e atualmente estudo pela Alura.<br>
-  Estou em processo de migração de carreria para desenvolvedor Front-End depois de trabalhar por 10 anos como Auxiliar Administrativo.
+  Estou em processo de migração de carreria para desenvolvedor Front-End.
 </p>
 
 <p align="left">
