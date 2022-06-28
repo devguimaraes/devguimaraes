@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Bruno Guimarães, graduado pelo Senac-RJ como desenvelvedor Web e atualmente estudo pela Alura.<br>
+  Bruno Guimarães, graduado pelo Senac-RJ como desenvelvedor Web e atualmente estudando pela Alura.<br>
   Estou em processo de migração de carreria para desenvolvedor Front-End.
 </p>
 
