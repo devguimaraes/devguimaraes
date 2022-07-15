@@ -13,7 +13,7 @@
 
 <p align="left">
  
-  💼 Ferramentas: <strong>VS Code, Figma, Trello, Git e GitHub.
+  💼 Ferramentas: <strong>VS Code, Node, Figma, Trello, Git e GitHub.
 
 </strong>
 </p>
