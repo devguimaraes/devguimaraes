@@ -7,7 +7,7 @@
 
 <p align="left">
   
-   💼 Linguagens: <strong>HTML, CSS, JavaScript, TailwindCSS e Vue.Js
+   💼 Linguagens: <strong>HTML, CSS, JavaScript, TailwindCSS e React
   </strong>
 </p>
 
