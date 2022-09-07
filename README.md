@@ -2,7 +2,7 @@
 
 <h3 align="left"> 
   Bruno Guimarães, graduado pelo Senac-RJ como desenvelvedor Web e atualmente estudando pela Alura.<br>
-  Estou em processo de migração de carreria para desenvolvedor Front-End.
+  Em processo de migração de carreria para desenvolvedor Front-End.
 </h3>
 
 <h3 align="left">Connect with me:</h3>
