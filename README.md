@@ -21,8 +21,8 @@ Estou em processo de migração de carreira para área desenvolvimento com foco 
 
  ---
 <div align="center" >
-   <img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=devguimaraes&show_icons=true&locale=en&layout=compact&theme=dark"     alt="devguimaraes" />
-   <img height="200rem" src="https://github-readme-stats.vercel.app/api?username=devguimaraes&show_icons=true&theme=dark" alt="devguimaraes" 
+   <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=devguimaraes&show_icons=true&locale=en&layout=compact&theme=dark"     alt="devguimaraes" />
+   <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=devguimaraes&show_icons=true&theme=dark" alt="devguimaraes" 
  </div>
  
  ---
