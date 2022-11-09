@@ -1,13 +1,15 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<h2 align="left"> 
+<h1>💫 Sobre mim:</h1>
+
+<h3 align="left"> 
  Olá, sou Bruno Guimarães, Desenvolvedor Front-End.
-</h2>
+</h3>
 <h3>Graduado em Desenvolvimento Web pelo Senac-RJ e atualmente estudando pela Alura.</br>
 Estou em processo de migração de carreira para área desenvolvimento com foco no Front-End</h3>
 
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
+<h4 align="left">Linguagens e Ferramentas:</h4>
 <p align="left"> 
    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
@@ -58,7 +60,7 @@ Estou em processo de migração de carreira para área desenvolvimento com foco 
  
 
 
-<h3 align="left">Entre em contato:</h3>
+<h4 align="left">Entre em contato:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/bcguimaraes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bcguimaraes" height="40" width="40" /></a>
 <a href="https://instagram.com/brunoguimraes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brunoguimraes" height="40" width="40" /></a>
