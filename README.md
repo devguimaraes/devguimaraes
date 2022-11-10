@@ -78,4 +78,5 @@ Estou em processo de migração de carreira para área desenvolvimento com foco 
  </div>
  
  ---
-  ![Snake animation](https://github.com/devguimaraes/devguimaraes/blob/output/github-contribution-grid-snake.svg)
+
+
