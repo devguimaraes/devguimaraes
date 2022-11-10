@@ -1,3 +1,8 @@
+
+
+
+
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <h1>💫 Sobre mim:</h1>
@@ -73,3 +78,4 @@ Estou em processo de migração de carreira para área desenvolvimento com foco 
  </div>
  
  ---
+  ![Snake animation](https://github.com/devguimaraes/devguimaraes/blob/output/github-contribution-grid-snake.svg)
